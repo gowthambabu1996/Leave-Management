@@ -1,7 +1,7 @@
 # Leave-management
 
 
-## Module 1:  (By Arun Prakash P and Hari Prakash J)
+## Module 1:  (By Ajith NM and Hari Prakash J)
         -Design
            -Student
            -HOD
@@ -13,7 +13,7 @@
           -Student details
           -Faculty details
 
-## Module 3:(By Ajith NM)
+## Module 3:(By Arun Prakash P)
         -Scripting
           -Database connectivity
           -Form validation
