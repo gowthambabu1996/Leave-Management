@@ -128,6 +128,7 @@ Leave Management System
 
 
 ## Hari Prakash
+
 | Project task                                                       date           |  Status         |
 | :---------------------------------------------------------------:| :-------------: | :-------------: | 
 | Domain and Title Selection                                       | 12-12-2017      | In Progress     |
