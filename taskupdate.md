@@ -100,28 +100,28 @@ Leave Management System
 | Database Connectivity                                            | 19-01-2018      | In Progress     |
 | Database Connectivity                                            | 23-01-2018      | Completed       |
 | Learning to send SMS using PHP                                   | 29-01-2018      | In Progress     |
-| Learning about notificatin access                                | 30-01-2018      |
-| Learning about notificatin access                                | 05-02-2018      |
-| Learning about notificatin access                                | 07-02-2018      |
-| Learning about notificatin access                                | 08-02-2018      |
-| Change in domain                                                 | 10-02-2018      |
-| Change in domain                                                 | 13-02-2018      |
-| E-R Diagram                                                      | 15-02-2018      |
-| Documentation                                                    | 21-02-2018      |  
-| Documentation                                                    | 22-02-2018      |
-| Change in E-R Diagram                                            | 23-02-2018      |
-| E-R Diagram                                                      | 26-02-2018      |
-| Second Review                                                    | 27-02-2018      |
-| Second Review                                                    | 28-02-2018      |
-| Second Review                                                    | 01-03-2018      |
-| Second Review                                                    | 02-03-2018      |
-| Implementation of notification access                            | 05-03-2018      |
-| Implementation of notification access                            | 06-03-2018      |
-| Implementation of notification access                            | 07-03-2018      |
-| Change in notification style                                     | 08-03-2018      |
-| Checking the flow of the project                                 | 10-03-2018      |
-| Documentation                                                    | 13-03-2018      |
-| Documentation                                                    | 15-03-2018      |
+| Learning about notificatin access                                | 30-01-2018      |                 |
+| Learning about notificatin access                                | 05-02-2018      |                 |
+| Learning about notificatin access                                | 07-02-2018      |                 |
+| Learning about notificatin access                                | 08-02-2018      |                 |
+| Change in domain                                                 | 10-02-2018      |                 |
+| Change in domain                                                 | 13-02-2018      |                 |
+| E-R Diagram                                                      | 15-02-2018      |                 |
+| Documentation                                                    | 21-02-2018      |                 |  
+| Documentation                                                    | 22-02-2018      |                 |
+| Change in E-R Diagram                                            | 23-02-2018      |                 |
+| E-R Diagram                                                      | 26-02-2018      |                 |
+| Second Review                                                    | 27-02-2018      |                 |
+| Second Review                                                    | 28-02-2018      |                 |
+| Second Review                                                    | 01-03-2018      |                 |
+| Second Review                                                    | 02-03-2018      |                 |
+| Implementation of notification access                            | 05-03-2018      |                 |
+| Implementation of notification access                            | 06-03-2018      |                 |
+| Implementation of notification access                            | 07-03-2018      |                 |
+| Change in notification style                                     | 08-03-2018      |                 |
+| Checking the flow of the project                                 | 10-03-2018      |                 |
+| Documentation                                                    | 13-03-2018      |                 |
+| Documentation                                                    | 15-03-2018      |                 |
 
 
 
@@ -129,7 +129,7 @@ Leave Management System
 
 ## Hari Prakash
 
-| Project task                                                       date           |  Status         |
+| Project task                                                     | date            |  Status         |
 | :---------------------------------------------------------------:| :-------------: | :-------------: | 
 | Domain and Title Selection                                       | 12-12-2017      | In Progress     |
 | Zeroth Review                                                    | 13-12-2017      | Completed       |
