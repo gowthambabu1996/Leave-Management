@@ -24,33 +24,37 @@ Leave Management System
 | Database Connectivity                                            | 19-01-2018      | In Progress     |
 | Database Connectivity                                            | 23-01-2018      | Completed       |
 | Learning to send SMS using PHP                                   | 29-01-2018      | In Progress     |
-| Learning to send SMS using PHP                                   | 30-01-2018      |
-| Udacity                                                          | 31-01-2018      |
-| Udacity                                                          | 01-02-2018      |
-| Udacity                                                          | 05-02-2018      |
-| Udacity                                                          | 07-02-2018      |
-| Udacity                                                          | 09-02-2018      |
-| Learning API Message process                                     | 13-02-2018      |
-| Implementation of SMS code                                       | 15-02-2018      |
-| Implementation of SMS code                                       | 20-02-2018      |
-| Implementation of SMS code                                       | 21-02-2018      |
-| Code And verification                                            | 22-02-2018      |
-| Udacity                                                          | 23-02-2018      |
-| Second Review                                                    | 26-02-2018      |
-| Second Review                                                    | 27-02-2018      |
-| Second Review                                                    | 01-03-2018      |
-| Second Review                                                    | 02-03-2018      |
-| Code Implementation                                              | 03-03-2018      |
-| Code Implementation                                              | 05-03-2018      |
-| Code Implementation                                              | 06-03-2018      |
-| Code Implementation                                              | 07-03-2018      |
-| Udacity                                                          | 08-03-2018      |
-| Udacity                                                          | 10-03-2018      |
-| Udacity                                                          | 12-03-2018      |
-| Checking the flow of project                                     | 13-03-2018      |
-| Checking the flow of project                                     | 14-03-2018      |
-| Udacity                                                          | 15-03-2018      |
-
+| Learning to send SMS using PHP                                   | 30-01-2018      | Completed       |
+| Udacity                                                          | 31-01-2018      | In progress     |
+| Udacity                                                          | 01-02-2018      | In progress     |
+| Udacity                                                          | 05-02-2018      | In progress     |
+| Udacity                                                          | 07-02-2018      | In progress     |
+| Udacity                                                          | 09-02-2018      | In progress     |
+| Learning API Message process                                     | 13-02-2018      | In progress     |
+| Implementation of SMS code                                       | 15-02-2018      | In progress     |
+| Implementation of SMS code                                       | 20-02-2018      | In progress     |
+| Implementation of SMS code                                       | 21-02-2018      | In progress     |
+| Code And verification                                            | 22-02-2018      |                 |
+| Udacity                                                          | 23-02-2018      | In progress     |
+| Second Review                                                    | 26-02-2018      |                 |
+| Second Review                                                    | 27-02-2018      |                 |
+| Second Review                                                    | 01-03-2018      |                 |
+| Second Review                                                    | 02-03-2018      | Completed       |
+| Code Implementation                                              | 03-03-2018      | In progress     |
+| Code Implementation                                              | 05-03-2018      | In progress     |
+| Code Implementation                                              | 06-03-2018      | In progress     |
+| Code Implementation                                              | 07-03-2018      | In progress     |
+| Udacity                                                          | 08-03-2018      | Completed       |
+| Udacity                                                          | 10-03-2018      | In progress     |
+| Udacity                                                          | 12-03-2018      | In progress     |
+| Checking the flow of project                                     | 13-03-2018      | In progress     |
+| Checking the flow of project                                     | 14-03-2018      | Completed       |
+| Udacity                                                          | 15-03-2018      | In progress     |
+| Code error evaluating                                            | 16-03-2018      | In progress     |
+| Code error evaluating                                            | 19-03-2018      | Completed       |
+| Udacity                                                          | 20-03-2018      | In progress     |
+| Udacity                                                          | 21-03-2018      | In progress     |
+| Udacity                                                          | 22-03-2018      | In progress     |
 ## Arun Prakash
 | Project task                                                     |  date           |  Status         |
 | :---------------------------------------------------------------:| :-------------: | :-------------: | 
@@ -100,28 +104,34 @@ Leave Management System
 | Database Connectivity                                            | 19-01-2018      | In Progress     |
 | Database Connectivity                                            | 23-01-2018      | Completed       |
 | Learning to send SMS using PHP                                   | 29-01-2018      | In Progress     |
-| Learning about notificatin access                                | 30-01-2018      |                 |
-| Learning about notificatin access                                | 05-02-2018      |                 |
-| Learning about notificatin access                                | 07-02-2018      |                 |
-| Learning about notificatin access                                | 08-02-2018      |                 |
-| Change in domain                                                 | 10-02-2018      |                 |
+| Learning about notificatin access                                | 30-01-2018      | In progress     |
+| Learning about notificatin access                                | 05-02-2018      | In progress     |
+| Learning about notificatin access                                | 07-02-2018      | In progress     |
+| Learning about notificatin access                                | 08-02-2018      | In progress     |
+| Change in domain                                                 | 10-02-2018      | Completed       |
 | Change in domain                                                 | 13-02-2018      |                 |
-| E-R Diagram                                                      | 15-02-2018      |                 |
-| Documentation                                                    | 21-02-2018      |                 |  
-| Documentation                                                    | 22-02-2018      |                 |
-| Change in E-R Diagram                                            | 23-02-2018      |                 |
-| E-R Diagram                                                      | 26-02-2018      |                 |
+| E-R Diagram                                                      | 15-02-2018      | Completed       |
+| Documentation                                                    | 21-02-2018      | In progress     |  
+| Documentation                                                    | 22-02-2018      | In progress     |
+| Change in E-R Diagram                                            | 23-02-2018      | Completed       |
+| E-R Diagram                                                      | 26-02-2018      | Completed       |
 | Second Review                                                    | 27-02-2018      |                 |
 | Second Review                                                    | 28-02-2018      |                 |
 | Second Review                                                    | 01-03-2018      |                 |
-| Second Review                                                    | 02-03-2018      |                 |
-| Implementation of notification access                            | 05-03-2018      |                 |
-| Implementation of notification access                            | 06-03-2018      |                 |
-| Implementation of notification access                            | 07-03-2018      |                 |
-| Change in notification style                                     | 08-03-2018      |                 |
-| Checking the flow of the project                                 | 10-03-2018      |                 |
-| Documentation                                                    | 13-03-2018      |                 |
-| Documentation                                                    | 15-03-2018      |                 |
+| Second Review                                                    | 02-03-2018      | Completed       |
+| Implementation of notification access                            | 05-03-2018      | In progress     |
+| Implementation of notification access                            | 06-03-2018      | In progress     |
+| Implementation of notification access                            | 07-03-2018      | In progress     |
+| Change in notification style                                     | 08-03-2018      | Completed       |
+| Checking the flow of the project                                 | 10-03-2018      | Completed       |
+| Documentation                                                    | 13-03-2018      | In progress     |
+| Documentation                                                    | 15-03-2018      | In progress     |
+| Creating user login and their passwords in database              | 16-03-2018      | Completed       |
+| Storing information in database                                  | 19-03-2018      | In progress     |
+| Storing information in database                                  | 20-03-2018      | Completed       |
+| Implementing the project                                         | 21-03-2018      | Completed       |
+| Documentation and ppt                                            | 22-03-2018      | In progress     |
+
 
 
 
